@@ -51,5 +51,3 @@ Command-line arguments
 License
 
 Free to use for learning.
-```bash
-python word_letter_auto_count.py
